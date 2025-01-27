@@ -1,2 +1,2 @@
-# winter_camp_git_course
+ winter_camp_git_course
 ### HELLO WORLD!
